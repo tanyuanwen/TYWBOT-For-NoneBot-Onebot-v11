@@ -1,0 +1,30 @@
+{
+  "772818308": {
+    "enabled": false,
+    "ban_time": 60,
+    "frequency_threshold": 15,
+    "repeat_threshold": 15,
+    "time_window": 60
+  },
+  "975618208": {
+    "enabled": true,
+    "ban_time": 10,
+    "frequency_threshold": 50,
+    "repeat_threshold": 30,
+    "time_window": 60
+  },
+  "1072031595": {
+    "enabled": true,
+    "ban_time": 60,
+    "frequency_threshold": 15,
+    "repeat_threshold": 8,
+    "time_window": 60
+  },
+  "284872979": {
+    "enabled": true,
+    "ban_time": 60,
+    "frequency_threshold": 15,
+    "repeat_threshold": 8,
+    "time_window": 60
+  }
+}

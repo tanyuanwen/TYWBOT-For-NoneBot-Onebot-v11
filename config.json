@@ -1,0 +1,18 @@
+{
+  "host": "127.0.0.1",
+  "port": 8025,
+  "password": "ea14803a",
+  "connection": {
+    "host": "127.0.0.1",
+    "port": 2519,
+    "token": ""
+  },
+  "connectionMode": 2,
+  "checkUpdate": true,
+  "theme": {
+    "color": "light",
+    "img": "default",
+    "text": "default",
+    "hitokoto": false
+  }
+}

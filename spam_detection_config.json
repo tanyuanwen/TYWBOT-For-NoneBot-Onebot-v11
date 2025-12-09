@@ -1,0 +1,16 @@
+{
+  "975618208": {
+    "enabled": true,
+    "ban_time": 60,
+    "frequency_threshold": 15,
+    "repeat_threshold": 8,
+    "time_window": 60
+  },
+  "772818308": {
+    "enabled": false,
+    "ban_time": 60,
+    "frequency_threshold": 15,
+    "repeat_threshold": 8,
+    "time_window": 60
+  }
+}
