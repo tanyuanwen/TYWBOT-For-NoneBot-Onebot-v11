@@ -24,7 +24,7 @@ class RecallConfig:
         self.enable_private = False  # 启用私聊消息撤回（可能受限）
         self.delay_seconds = 0  # 延迟撤回时间（秒）
         self.notify_admin = True  # 通知管理员
-        self.admin_qq = "3671199392"  # 管理员QQ号（用于通知）
+        self.admin_qq = "123456"  # 管理员QQ号（用于通知）
 
 config = RecallConfig()
 
