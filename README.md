@@ -1,3 +1,1 @@
-#TYWBOT
-
-里面加入了litebot的代码，虽然也有我自己的原创（
+安装步骤请看[这里](http://tywbot.project.tywmc.cn/zh/quick_go.html)
